@@ -4,6 +4,8 @@ Below are strategies and a checklist of things you should do when working with a
 
 ### Greet the Student. Be a Person. 
 
+![greetings](http://i.giphy.com/3ornk57KwDXf81rjWM.gif "Greetings")
+
 When students are asking questions, they’ve usually at this point spent some time trying to solve the lab or work through the Reading. They might be frustrated or ready to give up or just tired from banging their head against the wall. 
 
 Your first task as a Learn Expert, before you dive into answering the question, is to greet the student. It can be as simple as saying “Hi! How are you doing?” Asking a question such as how a student’s day is going will momentarily pull them out of their frustration and gives them something else to think about. That can be enough time for them to clear their head and see the problem differently (and even figure out the answer on their own). 
@@ -12,10 +14,11 @@ In addition, you want to build a rapport and trust with the student. So while ch
 
 ### Before You Begin Addressing the Question
 
+![multiplying](http://i.giphy.com/n8iVtgWrBghjO.gif "Multiplying")
+
 Check first that the student doesn’t have multiple active questions open at once. Sometimes, students will have multiple questions by mistake so make sure what needs to be closed is closed. 
 
 If there are other questions that the student intentionally kept open, focus on just one thing at a time. In many cases, it might be working on the previous, earlier question. Tell the student to close the existing questions and once you’ve worked with them to solve the previous question, then tell them that they can open a new question after that. 
-
 
 ### Getting the Student to Restate the Question
 
@@ -24,6 +27,8 @@ Great, now that you’ve said your greetings, go back to the question. Again bec
 - I’m having trouble with this lab
 - I don’t know what I’m doing with this lesson
 - Can someone help me with this test? 
+
+![help](http://i.giphy.com/mVn6sht5pBVYc.gif "Help")
 
 Pretty vague right? As an Expert, you want the student first to be clear about what the problem is. How can you get the student to be more specific? 
 
@@ -42,7 +47,4 @@ As a Learn Expert, you’re building community and bringing a human touch to thi
 
 Tell them that error messages are great because it gets them one step closer to the answer. Tell them that programming and the debugging process is all about breaking down the problem into manageable pieces and tackling those pieces one by one. This will take time, but that’s expected. 
 
-You can even tell students that it’s good to take a break, to go for a walk, to do something that will clear their heads, to sleep. Sometimes you’ll need to encourage students and tell them that they’re on the right track. Use exclamation marks and emojis (note on emojis, you can call them up between :, so :+1: is thumbs up, :100: is the 100 percent emoji). Don’t let a student’s frustrations make you frustrated. Instead be positive, be empathetic, and be kind. 
-
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/learn-expert-soft-skills'>Learn Expert Soft Skills</a> on Learn.co and start learning to code for free.</p>
+You can even tell students that it’s good to take a break, to go for a walk, to do something that will clear their heads, to sleep. Sometimes you’ll need to encourage students and tell them that they’re on the right track. Use exclamation marks and emojis (note on emojis, you can call them up between :, so `:+1:` is :+1:, `:100:` is the :100: percent emoji). Don’t let a student’s frustrations make you frustrated. Instead be positive, be empathetic, and be kind. 
