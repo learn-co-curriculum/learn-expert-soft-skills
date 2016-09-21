@@ -28,7 +28,7 @@ Great, now that you’ve said your greetings, go back to the question. Again bec
 - I don’t know what I’m doing with this lesson
 - Can someone help me with this test? 
 
-![Help](http://i.giphy.com/mVn6sht5pBVYc.gif "Help")
+![Help](http://i.giphy.com/14jQC2AONxNBHq.gif "Help")
 
 Pretty vague right? As an Expert, you want the student first to be clear about what the problem is. How can you get the student to be more specific? 
 
