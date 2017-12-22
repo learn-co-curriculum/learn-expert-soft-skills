@@ -39,6 +39,10 @@ Pretty vague right? As a coach, you want the student first to be clear about wha
 
 At this point, then restate the question and ask the student if you got everything. This will put the onus on the student to provide you with any additional details that you or they missed. And it also makes them better at articulating (and thinking about articulating) their questions. 
 
+Technical communication is one of a developer's most important skills. One of your goals as a coach is to help students improve their technical communication. In your conversations, you want to make it clear that one of your goals is to help students to better articulate their problems. That way, once they've clearly articulated the problem, they can type it into Google and actually find something useful. 
+
+![Rubber Ducky](https://s3.amazonaws.com/learn-experts/rubber-ducky.gif "Rubber Ducky")
+
 From there, continue debugging. 
 
 ### Be Positive 
