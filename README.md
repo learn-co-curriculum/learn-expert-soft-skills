@@ -8,7 +8,7 @@ Below are strategies and a checklist of things you should do when working with a
 
 When students are asking questions, they’ve usually at this point spent some time trying to solve the lab or work through the Reading. They might be frustrated or ready to give up or just tired from banging their head against the wall. 
 
-Your first task as a Learn Expert, before you dive into answering the question, is to greet the student. It can be as simple as saying “Hi! How are you doing?” Asking a question such as how a student’s day is going will momentarily pull them out of their frustration and gives them something else to think about. That can be enough time for them to clear their head and see the problem differently (and even figure out the answer on their own). 
+Your first task as a Technical Coach, before you dive into addressing the question, is to greet the student. It can be as simple as saying “Hi! How are you doing?” Asking a question such as how a student’s day is going will momentarily pull them out of their frustration and gives them something else to think about. That can be enough time for them to clear their head and see the problem differently (and even figure out the answer on their own). 
 
 In addition, you want to build a rapport and trust with the student. So while chat isn’t the time to become best friends with the person you’re helping, establish that you’re a human and that you’re personable and approachable. 
 
@@ -30,7 +30,7 @@ Great, now that you’ve said your greetings, go back to the question. Again bec
 
 ![Help](http://i.giphy.com/14jQC2AONxNBHq.gif "Help")
 
-Pretty vague right? As an Expert, you want the student first to be clear about what the problem is. How can you get the student to be more specific? 
+Pretty vague right? As a coach, you want the student first to be clear about what the problem is. How can you get the student to be more specific? 
 
 - First tell them that we’re going to break their problem down further. 
 - Ask them what they expected to see? 
@@ -43,7 +43,7 @@ From there, continue debugging.
 
 ### Be Positive 
 
-As a Learn Expert, you’re building community and bringing a human touch to this online learning experiment. It’s important that as your student struggles through concepts or answering questions, that you reassure them and tell them that making mistakes and struggling with this content is what will ultimately make them. 
+As a Technical Coach, you’re building community and bringing a human touch to this online learning experiment. It’s important that as your student struggles through concepts or answering questions, that you reassure them and tell them that making mistakes and struggling with this content is what will ultimately make them. 
 
 Tell them that error messages are great because it gets them one step closer to the answer. Tell them that programming and the debugging process is all about breaking down the problem into manageable pieces and tackling those pieces one by one. This will take time, but that’s expected. 
 
