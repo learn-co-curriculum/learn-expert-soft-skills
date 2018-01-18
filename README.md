@@ -10,7 +10,9 @@ When students are asking questions, they’ve usually at this point spent some t
 
 Your first task as a Technical Coach, before you dive into addressing the question, is to greet the student. It can be as simple as saying “Hi! How are you doing?” Asking a question such as how a student’s day is going will momentarily pull them out of their frustration and gives them something else to think about. That can be enough time for them to clear their head and see the problem differently (and even figure out the answer on their own). 
 
-In addition, you want to build a rapport and trust with the student. So while chat isn’t the time to become best friends with the person you’re helping, establish that you’re a human and that you’re personable and approachable. 
+In addition, you want to build a rapport and trust with the student. So while chat isn’t the time to become best friends with the person you’re helping, establish that you’re a human and that you’re personable and approachable.
+
+**Video Example** [technical coach is friendly and builds student relationship](https://youtu.be/oM1ge18NEZ8)
 
 ### Before You Begin Addressing the Question
 
