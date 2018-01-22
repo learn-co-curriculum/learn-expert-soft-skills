@@ -10,7 +10,9 @@ When students are asking questions, they’ve usually at this point spent some t
 
 Your first task as a Technical Coach, before you dive into addressing the question, is to greet the student. It can be as simple as saying “Hi! How are you doing?” Asking a question such as how a student’s day is going will momentarily pull them out of their frustration and gives them something else to think about. That can be enough time for them to clear their head and see the problem differently (and even figure out the answer on their own). 
 
-In addition, you want to build a rapport and trust with the student. So while chat isn’t the time to become best friends with the person you’re helping, establish that you’re a human and that you’re personable and approachable. 
+In addition, you want to build a rapport and trust with the student. So while chat isn’t the time to become best friends with the person you’re helping, establish that you’re a human and that you’re personable and approachable.
+
+**Video Example** [technical coach is friendly and builds student relationship](https://youtu.be/oM1ge18NEZ8)
 
 ### Before You Begin Addressing the Question
 
@@ -47,10 +49,14 @@ From there, continue debugging.
 
 ### Be Positive 
 
-As a Technical Coach, you’re building community and bringing a human touch to this online learning experiment. It’s important that as your student struggles through concepts or answering questions, that you reassure them and tell them that making mistakes and struggling with this content is what will ultimately make them. 
+As a Technical Coach, you’re building community and bringing a human touch to this online learning experiment. It’s important that as your student struggles through concepts or answering questions, that you reassure them and tell them that making mistakes and struggling with this content is what will ultimately make them.
+
+**Video Example** [technical coach being positive and comfortable with a student](https://youtu.be/8d07IoGX7UQ)
 
 Tell them that error messages are great because it gets them one step closer to the answer. Tell them that programming and the debugging process is all about breaking down the problem into manageable pieces and tackling those pieces one by one. This will take time, but that’s expected. 
 
 You can even tell students that it’s good to take a break, to go for a walk, to do something that will clear their heads, to sleep. Sometimes you’ll need to encourage students and tell them that they’re on the right track. Use exclamation marks and emojis (note on emojis, you can call them up between :, so `:+1:` is :+1:, `:100:` is the :100: percent emoji). Don’t let a student’s frustrations make you frustrated. Instead be positive, be empathetic, and be kind. 
 
 Learning new skills is difficult. If students don't get a little frustrated along the way, then chances are they aren't learning much. Make sure to reassure students that frustration is part of the process, not an indicator of poor performance. The important thing is that they learn how to push through the frustration until they find a solution.
+
+**Video Example** [technical coach reassuring the student](https://youtu.be/EIUB8CmpsFU)
